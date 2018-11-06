@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Attrib 1**
+_Attrib Italics_
+__Another Bold__
+*Anothe :smile:*
